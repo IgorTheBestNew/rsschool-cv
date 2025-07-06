@@ -25,3 +25,10 @@ I am a beginner web developer with a strong desire to learn and grow in the fiel
 
 ---
 
+## 🎓 Education
+
+- **Rolling Scopes School** – JavaScript/Front-End Course *(In Progress)*
+- **Компьютерная академия IT Step** – Python Developer with Django *(Completed)*
+- **Компьютерная академия IT Step** – Front-End Development *(In Progress)*
+
+---
