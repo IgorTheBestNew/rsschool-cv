@@ -32,3 +32,10 @@ I am a beginner web developer with a strong desire to learn and grow in the fiel
 - **Компьютерная академия IT Step** – Front-End Development *(In Progress)*
 
 ---
+
+## 🗣 Languages
+
+- **Russian** – Native  
+- **Ukrainian** – Native  
+- **English** – A2  
+- **Polish** – A2
